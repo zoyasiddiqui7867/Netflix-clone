@@ -60,12 +60,18 @@ nav button {
     position: relative;
     gap: 23px;
     padding: 0 30px;
+    
 }
+
+.hero > :nth-child(1) {
+    font-size: 57px !important; 
+}
+
 
 .hero> :nth-child(1) {
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
-    font-size: 56px;
+    font-size: 100px;
     text-align: center;
 }
 
